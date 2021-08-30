@@ -7,12 +7,17 @@ $blue: #00a2d2;
 $gold: #ffdf00;
 $yellow: #ffdf00;
 $green: #008800;
+$mint-green: #45cd9b;
 $grey:#999;
 $light-grey:#efefef;
 $white: #fff;
 
+$heading-font: 'Quicksand',
+sans-serif;
+$menu-font: 'Gravitas One',
+sans-serif;
 
-$heading-font: 'Quicksand', sans-serif;
+$paragraph-font: 'Aleo', sans-serif;
 
 $small-breakpoint:  640px;
 $medium-breakpoint: 1024px;
@@ -166,7 +171,8 @@ $tagSize: 16px;
 }
 
 
-h1,h2,h3,h4,h5,h6 {font-family: $heading-font; font-weight:normal;line-height:1;}
+h1,h2,h3,h4,h5,h6 {font-family: $heading-font; font-weight:400;line-height:1;}
+p, span{font-family: $paragraph-font; font-weight: normal; line-height: 1;}
 a, a:visited {color:$gold;}
 a:hover, a:focus {color:lighten($gold,10%);}
 .button {
@@ -338,7 +344,7 @@ footer { @extend %group; background:$black;color:#aaa;font-family:$heading-font;
 }
 
 .menu-page {
-  .content {@extend %background-cover; background:url(img/bg-menu.jpg) no-repeat fixed;}
+  .content {@extend %background-cover; background:url(img/menu-wallpaper.png) no-repeat fixed;}
   .menu {background:$white;background:rgba($white,.9); padding:1em;font-size:1.2em; position:relative;
     @include mobile {padding:3em 1em 2em;}
   }
@@ -350,10 +356,12 @@ footer { @extend %group; background:$black;color:#aaa;font-family:$heading-font;
     .item-name, .item-price {float:left;margin-bottom:0;font-size:1.4em;}
     .item-price {margin-left:1em; font-family:$heading-font;position:relative;top:-2px;}
     &.vegan .item-name:after {@extend %vegan-tag;margin-left:.5em;font-size:.8em;}
-    .item-desc {clear:left;font-style:italic;font-weight:200;}
+    .item-desc {clear:left;font-style:normal;font-weight:200;}
+    p{padding-top: .5rem}
+    .free-of {border-radius:50%;padding:2px;font-family:$heading-font;border:2px solid $black;color:$black;text-align:center;}
   } 
-  .menu-note {font-family:$heading-font;font-size:1.2em;font-style:italic;
-    .highlight {border-bottom:4px solid $yellow;}
+  .menu-note {font-family:$paragraph-font;font-size:1.2em;font-style:italic;
+    .highlight {border-bottom:4px solid $mint-green;}
     &.small {font-size: .95em; margin-left:1em; margin-top: 1em;}
   }
 }

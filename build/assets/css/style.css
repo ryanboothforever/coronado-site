@@ -378,6 +378,11 @@ footer .credit a {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quicksand", sans-serif;
+  font-weight: 400;
+  line-height: 1; }
+
+p, span {
+  font-family: "Aleo", sans-serif;
   font-weight: normal;
   line-height: 1; }
 
@@ -684,7 +689,7 @@ footer {
       margin: 0 auto; }
 
 .menu-page .content {
-  background: url(img/bg-menu.jpg) no-repeat fixed; }
+  background: url(img/menu-wallpaper.png) no-repeat fixed; }
 
 .menu-page .menu {
   background: #fff;
@@ -728,15 +733,24 @@ footer {
     font-size: .8em; }
   .menu-page .menu-item .item-desc {
     clear: left;
-    font-style: italic;
+    font-style: normal;
     font-weight: 200; }
+  .menu-page .menu-item p {
+    padding-top: .5rem; }
+  .menu-page .menu-item .free-of {
+    border-radius: 50%;
+    padding: 2px;
+    font-family: "Quicksand", sans-serif;
+    border: 2px solid #000;
+    color: #000;
+    text-align: center; }
 
 .menu-page .menu-note {
-  font-family: "Quicksand", sans-serif;
+  font-family: "Aleo", sans-serif;
   font-size: 1.2em;
   font-style: italic; }
   .menu-page .menu-note .highlight {
-    border-bottom: 4px solid #ffdf00; }
+    border-bottom: 4px solid #45cd9b; }
   .menu-page .menu-note.small {
     font-size: .95em;
     margin-left: 1em;

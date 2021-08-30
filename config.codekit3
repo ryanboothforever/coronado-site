@@ -1340,7 +1340,11 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/img\/favicons\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0,
+<<<<<<< Updated upstream
     "lastBuiltDate" : 652036946.95383
+=======
+    "lastBuiltDate" : 652036260.70698404
+>>>>>>> Stashed changes
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

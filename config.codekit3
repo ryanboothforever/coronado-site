@@ -145,6 +145,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/css\/img\/menu-wallpaper.png" : {
+      "ft" : 32768,
+      "iS" : 3668083,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/css\/img\/menu-wallpaper.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/css\/print.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -1044,6 +1057,32 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/img\/home-new-pastry-case.jpg" : {
+      "ft" : 16384,
+      "iS" : 232296,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/home-new-pastry-case.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/img\/home-new-patio.jpg" : {
+      "ft" : 16384,
+      "iS" : 525652,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/home-new-patio.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 80,
+      "rq" : 75
+    },
     "\/img\/home-pastries.jpg" : {
       "ft" : 16384,
       "iS" : 104216,
@@ -1301,7 +1340,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/img\/favicons\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 648090280.49388003
+    "lastBuiltDate" : 652036946.95383
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

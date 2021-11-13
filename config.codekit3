@@ -119,6 +119,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/css\/img\/bg-wallpaper.png" : {
+      "ft" : 32768,
+      "iS" : 3668083,
+      "oA" : 0,
+      "oAP" : "\/build\/assets\/css\/img\/bg-wallpaper.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/css\/img\/line.png" : {
       "ft" : 32768,
       "iS" : 817,
@@ -465,6 +478,12 @@
       "pg" : 0,
       "sct" : 1
     },
+    "\/build" : {
+      "ft" : 65536,
+      "oA" : 1,
+      "oAP" : "\/build\/build",
+      "oF" : 0
+    },
     "\/events.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -480,6 +499,19 @@
       "oA" : 0,
       "oAP" : "\/build\/events.html",
       "oF" : 0
+    },
+    "\/img\/coronado-patio.jpg" : {
+      "ft" : 16384,
+      "iS" : 525652,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/img\/coronado-patio.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/img\/crown-black.png" : {
       "ft" : 32768,

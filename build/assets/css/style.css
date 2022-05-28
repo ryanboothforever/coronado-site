@@ -376,6 +376,10 @@ footer .credit a {
   .container.wide {
     max-width: 1240px; }
 
+.opentable {
+  height: 170px;
+  max-width: fit-content; }
+
 h1, h2, h3, h4, h5, h6 {
   font-family: "Quicksand", sans-serif;
   font-weight: normal;

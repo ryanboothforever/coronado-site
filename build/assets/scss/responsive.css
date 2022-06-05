@@ -1,0 +1,4 @@
+/* ----- responsive ----------------------------------------------------- */
+@media screen and (max-width: 640px) {
+  h1 a {
+    display: block; } }

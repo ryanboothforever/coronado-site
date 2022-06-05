@@ -1327,7 +1327,11 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/img\/favicons\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0,
+<<<<<<< HEAD
     "lastBuiltDate" : 676142546.36639595
+=======
+    "lastBuiltDate" : 675448898.96674895
+>>>>>>> 9822edd0e11ade4cb28d550ce7615597866f78df
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

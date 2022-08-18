@@ -164,10 +164,6 @@ $tagSize: 16px;
 .container {width:94%;max-width:940px; padding:0 3%;margin:0 auto;
   &.wide {max-width:1240px;}
 }
-.opentable {
-  height: 170px;
-  max-width: fit-content;
-}
 
 h1,h2,h3,h4,h5,h6 {font-family: $heading-font; font-weight:normal;line-height:1;}
 a, a:visited {color:$gold;}
@@ -337,6 +333,10 @@ footer { @extend %group; background:$black;color:#aaa;font-family:$heading-font;
     text-align:center;
     figcaption {font-size:14px;}
     img {max-width: 140px; margin: 0 auto;}
+  }
+  .opentable{
+    display: flex;
+    justify-content: center;
   }
 }
 

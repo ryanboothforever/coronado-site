@@ -478,12 +478,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
-    },
     "\/events.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -498,6 +492,22 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/build\/events.html",
+      "oF" : 0
+    },
+    "\/hi_oscar.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/hi_oscar.html",
+      "oF" : 0
+    },
+    "\/hi_oscar.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/build\/hi_oscar.html",
       "oF" : 0
     },
     "\/img\/coronado-patio.jpg" : {
@@ -1327,7 +1337,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/img\/favicons\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 682477840.96093702
+    "lastBuiltDate" : 686792971.86299503
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

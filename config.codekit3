@@ -478,12 +478,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
-    },
     "\/events.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1343,7 +1337,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/img\/favicons\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 686792971.86299503
+    "lastBuiltDate" : 688941989.43397796
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

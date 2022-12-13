@@ -478,12 +478,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
-    },
     "\/events.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -1264,7 +1258,7 @@
       "rq" : 75
     },
     "\/index.html" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
@@ -1280,7 +1274,7 @@
       "oF" : 0
     },
     "\/menu.html" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
@@ -1296,7 +1290,7 @@
       "oF" : 0
     },
     "\/press.html" : {
-      "cB" : 0,
+      "cB" : 1,
       "ft" : 8192,
       "hM" : 0,
       "oA" : 0,
@@ -1343,7 +1337,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/img\/favicons\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 692583070.692801
+    "lastBuiltDate" : 692583915.60821295
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,

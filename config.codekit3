@@ -478,12 +478,6 @@
       "pg" : 0,
       "sct" : 1
     },
-    "\/build" : {
-      "ft" : 65536,
-      "oA" : 1,
-      "oAP" : "\/build\/build",
-      "oF" : 0
-    },
     "\/events.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -498,14 +492,6 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/build\/events.html",
-      "oF" : 0
-    },
-    "\/hi_oscar.html" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/hi_oscar.html",
       "oF" : 0
     },
     "\/hi_oscar.kit" : {
@@ -1263,14 +1249,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/index.html" : {
-      "cB" : 1,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/index.html",
-      "oF" : 1
-    },
     "\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -1279,14 +1257,6 @@
       "oAP" : "\/build\/index.html",
       "oF" : 0
     },
-    "\/menu.html" : {
-      "cB" : 1,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/menu.html",
-      "oF" : 1
-    },
     "\/menu.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -1294,14 +1264,6 @@
       "oA" : 0,
       "oAP" : "\/build\/menu.html",
       "oF" : 0
-    },
-    "\/press.html" : {
-      "cB" : 1,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/build\/press.html",
-      "oF" : 1
     },
     "\/press.kit" : {
       "cB" : 0,
@@ -1343,7 +1305,7 @@
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "\/img\/favicons\/apple-touch-icon-120x120.png",
     "iconImageWasSetByUser" : 0,
-    "lastBuiltDate" : 695099035.28898799
+    "lastBuiltDate" : 695100903.04691398
   },
   "projectSettings" : {
     "abortBuildOnError" : 1,
